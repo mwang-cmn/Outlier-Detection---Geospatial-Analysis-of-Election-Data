@@ -2,7 +2,7 @@
 
 Full Report - Top 5 outliers per Party in this state
 
-####: APC
+### APC
 | PU-Code      |   APC |   APC_outlier_score |
 |:-------------|------:|--------------------:|
 | 03-05-11-009 |   324 |             228.52  |
@@ -10,7 +10,7 @@ Full Report - Top 5 outliers per Party in this state
 | 03-30-07-001 |   180 |             153.325 |
 | 03-05-09-014 |   194 |             152.149 |
 | 03-28-05-003 |   180 |             138.132 |
-####: LP
+### LP
 | PU-Code      |   LP |   LP_outlier_score |
 |:-------------|-----:|-------------------:|
 | 03-05-11-009 |   59 |           45.451   |
@@ -18,7 +18,7 @@ Full Report - Top 5 outliers per Party in this state
 | 03-30-07-001 |   29 |            6.34942 |
 | 03-05-09-014 |    3 |           26.5831  |
 | 03-28-05-003 |   91 |           61.5261  |
-####: PDP
+### PDP
 | PU-Code      |   PDP |   PDP_outlier_score |
 |:-------------|------:|--------------------:|
 | 03-05-11-009 |     7 |             27.3627 |
@@ -26,7 +26,7 @@ Full Report - Top 5 outliers per Party in this state
 | 03-30-07-001 |    17 |             18.8739 |
 | 03-05-09-014 |    36 |             24.2221 |
 | 03-28-05-003 |    12 |             48.2519 |
-####: NNPP
+### NNPP
 | PU-Code      |   NNPP |   NNPP_outlier_score |
 |:-------------|-------:|---------------------:|
 | 03-05-11-009 |      0 |              0.27451 |
